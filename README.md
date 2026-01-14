@@ -90,8 +90,8 @@
 
 ---
 
-### 📊 Моя статистика GitHub
+### 📊  GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipp-kotenko&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipp-kotenko&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kotfil&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotfil&layout=compact&theme=dark" alt="Top Langs" />
 </p>
