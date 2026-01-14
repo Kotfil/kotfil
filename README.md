@@ -1,4 +1,4 @@
-# 
+# Привет! Я Филипп 👋
 
 <table border="0">
   <tr>
@@ -8,13 +8,28 @@
       <p>
         I am a highly skilled and detail-oriented developer with over 6 years of experience in building and deploying modern, scalable web applications. I started my career as a freelancer, focusing on creating robust solutions for businesses of all sizes, and have since developed a strong expertise in full-stack development with an emphasis on clean code, scalable architecture, and high-quality testing.
       </p>
-      <blockquote>
-        <strong>Why Work With Me?</strong><br/>
-        • Strong problem-solving skills with a proven track record.<br/>
-        • Highly self-organized and quick to adapt.<br/>
-        • Dedicated to code quality and robust testing.<br/>
-        • Excellent team collaborator.
-      </blockquote>
+      <h3>🌐 Contact</h3>
+      <p align="left">
+        <a href="https://t.me/Donte2222" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+        <a href="https://www.linkedin.com/in/filippkotenko/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:filippkotenko@outlook.com">
+          <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+        </a>
+        <br/>
+        <a href="https://www.upwork.com/freelancers/~01d69898b2e0c5f8ba" target="_blank">
+          <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+        </a>
+        <a href="https://www.fiverr.com/kotfil" target="_blank">
+          <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+        </a>
+        <a href="https://kotfil.space" target="_blank">
+          <img src="https://img.shields.io/badge/Website-kotfil.space-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="40%" valign="top">
       <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="100%" alt="CPU Circuit Board">
@@ -24,7 +39,7 @@
 
 ---
 
-##  Expertise
+## ⚡ Expertise
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -62,32 +77,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-
 ---
 
-##  Contact
-
-<p align="left">
-  <a href="https://t.me/Donte2222" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/filippkotenko/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~01d69898b2e0c5f8ba" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/kotfil" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="mailto:filippkotenko@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://kotfil.space" target="_blank">
-    <img src="https://img.shields.io/badge/Website-kotfil.space-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=filipp-kotenko&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipp-kotenko&layout=compact&theme=dark" alt="Top Langs" />
 </p>
-
----
-
-
