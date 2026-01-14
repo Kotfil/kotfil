@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ Technical Expertise
+##  Expertise
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🌐 Connect with me
+##  Contact
 
 <p align="left">
   <a href="https://t.me/Donte2222" target="_blank">
