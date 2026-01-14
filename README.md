@@ -1,9 +1,9 @@
-# Привет! Я Филипп 👋
+# 
 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <h1>Experienced Full-Stack Developer</h1>
+      <h1>Full-Stack Developer</h1>
       <h3>6+ Years of Expertise</h3>
       <p>
         I am a highly skilled and detail-oriented developer with over 6 years of experience in building and deploying modern, scalable web applications. I started my career as a freelancer, focusing on creating robust solutions for businesses of all sizes, and have since developed a strong expertise in full-stack development with an emphasis on clean code, scalable architecture, and high-quality testing.
@@ -62,8 +62,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🎯 Work Preferences
-I am looking for full-time or project-based work that focuses on my core stack: **React, TypeScript, and Redux**. I am open to remote work and relocation opportunities, and I am excited to contribute to challenging projects where I can make a meaningful impact.
 
 ---
 
